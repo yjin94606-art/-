@@ -3,8 +3,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/你的用户名/仓库名?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/你的用户名/仓库名?style=social)
 
-👋 欢迎来到我的项目！无论你是路过参观的开发者、潜在贡献者，还是对开源充满好奇的学习者，这里都向你敞开大门！期待与你们共同打造更好的开源生态  💖
-
+👋 Whether you're a developer passing by, a potential contributor, or a learner curious about open-source - **you're welcome here**! I'm excited to collaborate with you in building a better open-source ecosystem  💖
 ##  ✨ Hi everyone
 -  🔥 welcome
 -  🚀 to my
