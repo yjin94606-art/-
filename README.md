@@ -10,11 +10,4 @@
 -  🌈 library
 
 ##  📦 let's go
-```bash
-# 安装步骤
-$ git clone https://github.com/你的用户名/仓库名.git
-$ cd 项目目录
-$ npm install  # 根据实际项目替换
 
-# 运行示例
-$ npm start# -
